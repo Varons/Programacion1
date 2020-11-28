@@ -1,0 +1,2 @@
+estas librerías son las necesarias para utilizar la graficadora, añada los archivos "graphics.h" y "winbgim.h"
+en la ruta donde tiene descargado el DEV C++, Mingw64>include. con esto podrá visualizar el programa
